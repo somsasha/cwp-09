@@ -1,6 +1,6 @@
 {
     "name": "cwp-09",
-    "author": "Alexandr",
+    "author": "somsasha",
     "dependencies": {
         "axios": "^0.18.0",
         "bluebird": "^3.5.3"
